@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans';
+}
+
+nav a:hover {
+    background-color: black;
+    color: #fff;
+}
+
+.encabezadoimg {
+    background-image: url(imagenes/principal.jpg);
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column
+    justify:center;
+    align-items: center;
+    color: azure;
+}
+
+.encabezadoimg h1{
+    font-size: 50px;
+}
+
+.encabezadoimg p {
+    font-size: 30px;
+    color: darks;
+}
+
+.primarea {
+    font-size: 20px;
+}
+
+.primarea h1 {
+    justify-content: center;
+}
+
