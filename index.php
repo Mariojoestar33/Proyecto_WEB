@@ -22,7 +22,7 @@
 <header>
        <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.html">COMPADR-ES</a>
+    <a class="navbar-brand" href="index.php">COMPADR-ES</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -38,10 +38,10 @@
           <a class="nav-link active" href="javascript:void(0)">Comparte tus habilidades</a>
         </li>
           <li>
-            <a class="nav-link active" href="login.html">Iniciar sesion</a>
+            <a class="nav-link active" href="login.php">Iniciar sesion</a>
           </li>
           <li>
-            <a class="nav-link active" href="registro.html" data-toggle="tooltip" title="Es gratis ;)">Registrate</a>
+            <a class="nav-link active" href="registro.php" data-toggle="tooltip" title="Es gratis ;)">Registrate</a>
           </li>
       </ul>
       <form class="d-flex">
